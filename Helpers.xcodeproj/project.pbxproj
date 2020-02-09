@@ -37,23 +37,22 @@
 		641DF8F0223FE9FA00F2C2E9 /* CFStringExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 641DF8D4223FE9F900F2C2E9 /* CFStringExtensions.swift */; };
 		641DF8F2223FE9FA00F2C2E9 /* EKParticipantExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 641DF8D6223FE9F900F2C2E9 /* EKParticipantExtensions.swift */; };
 		641DF907223FEA0B00F2C2E9 /* DictionaryExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 641DF8F6223FEA0B00F2C2E9 /* DictionaryExtensions.swift */; };
-		641DF908223FEA0B00F2C2E9 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 641DF8F7223FEA0B00F2C2E9 /* Utils.swift */; };
-		641DF909223FEA0B00F2C2E9 /* MultipartForm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 641DF8F8223FEA0B00F2C2E9 /* MultipartForm.swift */; };
-		641DF90B223FEA0B00F2C2E9 /* Form.swift in Sources */ = {isa = PBXBuildFile; fileRef = 641DF8FA223FEA0B00F2C2E9 /* Form.swift */; };
-		641DF90C223FEA0B00F2C2E9 /* Time.swift in Sources */ = {isa = PBXBuildFile; fileRef = 641DF8FB223FEA0B00F2C2E9 /* Time.swift */; };
-		641DF90D223FEA0B00F2C2E9 /* UIPlaceHolderTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 641DF8FC223FEA0B00F2C2E9 /* UIPlaceHolderTextView.swift */; };
-		641DF90E223FEA0B00F2C2E9 /* JSONEncodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 641DF8FD223FEA0B00F2C2E9 /* JSONEncodable.swift */; };
-		641DF911223FEA0B00F2C2E9 /* JSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 641DF900223FEA0B00F2C2E9 /* JSON.swift */; };
-		641DF912223FEA0B00F2C2E9 /* JSONDecodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 641DF901223FEA0B00F2C2E9 /* JSONDecodable.swift */; };
-		641DF913223FEA0B00F2C2E9 /* NetworkRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 641DF902223FEA0B00F2C2E9 /* NetworkRequest.swift */; };
-		641DF914223FEA0B00F2C2E9 /* UITableViewHeaderFooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 641DF903223FEA0B00F2C2E9 /* UITableViewHeaderFooterView.swift */; };
-		641DF915223FEA0B00F2C2E9 /* PausableTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 641DF904223FEA0B00F2C2E9 /* PausableTimer.swift */; };
 		641DF919223FEF8F00F2C2E9 /* DateExtensionsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 641DF917223FEF8F00F2C2E9 /* DateExtensionsTests.swift */; };
 		641DF91A223FEF8F00F2C2E9 /* TimeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 641DF918223FEF8F00F2C2E9 /* TimeTests.swift */; };
 		6433F27023EF1CD8003DBA0D /* UISegmentedControlExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6433F26F23EF1CD8003DBA0D /* UISegmentedControlExtensions.swift */; };
 		645870F2224CCF9D000FA425 /* UILabelExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 645870F1224CCF9D000FA425 /* UILabelExtension.swift */; };
+		6467226423F048BF00A0E457 /* PausableTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6467225923F048BF00A0E457 /* PausableTimer.swift */; };
+		6467226523F048BF00A0E457 /* MultipartForm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6467225A23F048BF00A0E457 /* MultipartForm.swift */; };
+		6467226623F048BF00A0E457 /* Time.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6467225B23F048BF00A0E457 /* Time.swift */; };
+		6467226723F048BF00A0E457 /* UITableViewHeaderFooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6467225C23F048BF00A0E457 /* UITableViewHeaderFooterView.swift */; };
+		6467226823F048BF00A0E457 /* JSONDecodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6467225D23F048BF00A0E457 /* JSONDecodable.swift */; };
+		6467226923F048BF00A0E457 /* JSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6467225E23F048BF00A0E457 /* JSON.swift */; };
+		6467226A23F048BF00A0E457 /* Form.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6467225F23F048BF00A0E457 /* Form.swift */; };
+		6467226B23F048BF00A0E457 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6467226023F048BF00A0E457 /* Utils.swift */; };
+		6467226C23F048BF00A0E457 /* UIPlaceHolderTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6467226123F048BF00A0E457 /* UIPlaceHolderTextView.swift */; };
+		6467226D23F048BF00A0E457 /* JSONEncodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6467226223F048BF00A0E457 /* JSONEncodable.swift */; };
+		6467226E23F048BF00A0E457 /* NetworkRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6467226323F048BF00A0E457 /* NetworkRequest.swift */; };
 		64F8B7C623AEB95900EB6803 /* UIButtonExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64F8B7C523AEB95900EB6803 /* UIButtonExtension.swift */; };
-		F23CA0CC1DA69C1F006007EF /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F23CA0CB1DA69C1F006007EF /* UIKit.framework */; };
 		F27DA41D1DA520D5005B1A33 /* Helpers.h in Headers */ = {isa = PBXBuildFile; fileRef = F27DA40F1DA520D5005B1A33 /* Helpers.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F2DEA0FF1FA21A0E0039BDEA /* Helpers.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F27DA40C1DA520D5005B1A33 /* Helpers.framework */; };
 /* End PBXBuildFile section */
@@ -99,25 +98,24 @@
 		641DF8D4223FE9F900F2C2E9 /* CFStringExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CFStringExtensions.swift; sourceTree = "<group>"; };
 		641DF8D6223FE9F900F2C2E9 /* EKParticipantExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EKParticipantExtensions.swift; sourceTree = "<group>"; };
 		641DF8F6223FEA0B00F2C2E9 /* DictionaryExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DictionaryExtensions.swift; path = Helpers/Extensions/DictionaryExtensions.swift; sourceTree = SOURCE_ROOT; };
-		641DF8F7223FEA0B00F2C2E9 /* Utils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Utils.swift; path = Helpers/Utils.swift; sourceTree = SOURCE_ROOT; };
-		641DF8F8223FEA0B00F2C2E9 /* MultipartForm.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MultipartForm.swift; path = Helpers/MultipartForm.swift; sourceTree = SOURCE_ROOT; };
-		641DF8FA223FEA0B00F2C2E9 /* Form.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Form.swift; path = Helpers/Form.swift; sourceTree = SOURCE_ROOT; };
-		641DF8FB223FEA0B00F2C2E9 /* Time.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Time.swift; path = Helpers/Time.swift; sourceTree = SOURCE_ROOT; };
-		641DF8FC223FEA0B00F2C2E9 /* UIPlaceHolderTextView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = UIPlaceHolderTextView.swift; path = Helpers/UIPlaceHolderTextView.swift; sourceTree = SOURCE_ROOT; };
-		641DF8FD223FEA0B00F2C2E9 /* JSONEncodable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = JSONEncodable.swift; path = Helpers/JSONEncodable.swift; sourceTree = SOURCE_ROOT; };
-		641DF900223FEA0B00F2C2E9 /* JSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = JSON.swift; path = Helpers/JSON.swift; sourceTree = SOURCE_ROOT; };
-		641DF901223FEA0B00F2C2E9 /* JSONDecodable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = JSONDecodable.swift; path = Helpers/JSONDecodable.swift; sourceTree = SOURCE_ROOT; };
-		641DF902223FEA0B00F2C2E9 /* NetworkRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = NetworkRequest.swift; path = Helpers/NetworkRequest.swift; sourceTree = SOURCE_ROOT; };
-		641DF903223FEA0B00F2C2E9 /* UITableViewHeaderFooterView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = UITableViewHeaderFooterView.swift; path = Helpers/UITableViewHeaderFooterView.swift; sourceTree = SOURCE_ROOT; };
-		641DF904223FEA0B00F2C2E9 /* PausableTimer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PausableTimer.swift; path = Helpers/PausableTimer.swift; sourceTree = SOURCE_ROOT; };
 		641DF916223FED3F00F2C2E9 /* .swiftlint.yml */ = {isa = PBXFileReference; lastKnownFileType = text; path = .swiftlint.yml; sourceTree = "<group>"; };
 		641DF917223FEF8F00F2C2E9 /* DateExtensionsTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DateExtensionsTests.swift; sourceTree = "<group>"; };
 		641DF918223FEF8F00F2C2E9 /* TimeTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimeTests.swift; sourceTree = "<group>"; };
 		6433F26F23EF1CD8003DBA0D /* UISegmentedControlExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UISegmentedControlExtensions.swift; sourceTree = "<group>"; };
 		645870F1224CCF9D000FA425 /* UILabelExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UILabelExtension.swift; sourceTree = "<group>"; };
+		6467225923F048BF00A0E457 /* PausableTimer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PausableTimer.swift; sourceTree = "<group>"; };
+		6467225A23F048BF00A0E457 /* MultipartForm.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MultipartForm.swift; sourceTree = "<group>"; };
+		6467225B23F048BF00A0E457 /* Time.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Time.swift; sourceTree = "<group>"; };
+		6467225C23F048BF00A0E457 /* UITableViewHeaderFooterView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UITableViewHeaderFooterView.swift; sourceTree = "<group>"; };
+		6467225D23F048BF00A0E457 /* JSONDecodable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSONDecodable.swift; sourceTree = "<group>"; };
+		6467225E23F048BF00A0E457 /* JSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSON.swift; sourceTree = "<group>"; };
+		6467225F23F048BF00A0E457 /* Form.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Form.swift; sourceTree = "<group>"; };
+		6467226023F048BF00A0E457 /* Utils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
+		6467226123F048BF00A0E457 /* UIPlaceHolderTextView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIPlaceHolderTextView.swift; sourceTree = "<group>"; };
+		6467226223F048BF00A0E457 /* JSONEncodable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSONEncodable.swift; sourceTree = "<group>"; };
+		6467226323F048BF00A0E457 /* NetworkRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkRequest.swift; sourceTree = "<group>"; };
 		64E1EBC32242711B00A524DC /* Helpers.podspec.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Helpers.podspec.json; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		64F8B7C523AEB95900EB6803 /* UIButtonExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIButtonExtension.swift; sourceTree = "<group>"; };
-		F23CA0CB1DA69C1F006007EF /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		F27DA40C1DA520D5005B1A33 /* Helpers.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Helpers.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F27DA40F1DA520D5005B1A33 /* Helpers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Helpers.h; sourceTree = "<group>"; };
 		F27DA4101DA520D5005B1A33 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -130,7 +128,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F23CA0CC1DA69C1F006007EF /* UIKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -185,30 +182,22 @@
 			path = Extensions;
 			sourceTree = "<group>";
 		};
-		641DF8F3223FE9FE00F2C2E9 /* Helpers */ = {
+		6467225823F048BF00A0E457 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				641DF8FA223FEA0B00F2C2E9 /* Form.swift */,
-				641DF900223FEA0B00F2C2E9 /* JSON.swift */,
-				641DF901223FEA0B00F2C2E9 /* JSONDecodable.swift */,
-				641DF8FD223FEA0B00F2C2E9 /* JSONEncodable.swift */,
-				641DF8F8223FEA0B00F2C2E9 /* MultipartForm.swift */,
-				641DF902223FEA0B00F2C2E9 /* NetworkRequest.swift */,
-				641DF904223FEA0B00F2C2E9 /* PausableTimer.swift */,
-				641DF8FB223FEA0B00F2C2E9 /* Time.swift */,
-				641DF8FC223FEA0B00F2C2E9 /* UIPlaceHolderTextView.swift */,
-				641DF903223FEA0B00F2C2E9 /* UITableViewHeaderFooterView.swift */,
-				641DF8F7223FEA0B00F2C2E9 /* Utils.swift */,
+				6467225F23F048BF00A0E457 /* Form.swift */,
+				6467225E23F048BF00A0E457 /* JSON.swift */,
+				6467225D23F048BF00A0E457 /* JSONDecodable.swift */,
+				6467226223F048BF00A0E457 /* JSONEncodable.swift */,
+				6467225A23F048BF00A0E457 /* MultipartForm.swift */,
+				6467226323F048BF00A0E457 /* NetworkRequest.swift */,
+				6467225923F048BF00A0E457 /* PausableTimer.swift */,
+				6467225B23F048BF00A0E457 /* Time.swift */,
+				6467226123F048BF00A0E457 /* UIPlaceHolderTextView.swift */,
+				6467225C23F048BF00A0E457 /* UITableViewHeaderFooterView.swift */,
+				6467226023F048BF00A0E457 /* Utils.swift */,
 			);
-			path = Helpers;
-			sourceTree = "<group>";
-		};
-		F23CA0CA1DA69C1F006007EF /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				F23CA0CB1DA69C1F006007EF /* UIKit.framework */,
-			);
-			name = Frameworks;
+			path = Classes;
 			sourceTree = "<group>";
 		};
 		F27DA4021DA520D5005B1A33 = {
@@ -219,7 +208,6 @@
 				F27DA40E1DA520D5005B1A33 /* Helpers */,
 				F2DEA0FB1FA21A0E0039BDEA /* HelpersTests */,
 				F27DA40D1DA520D5005B1A33 /* Products */,
-				F23CA0CA1DA69C1F006007EF /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -235,8 +223,8 @@
 		F27DA40E1DA520D5005B1A33 /* Helpers */ = {
 			isa = PBXGroup;
 			children = (
+				6467225823F048BF00A0E457 /* Classes */,
 				641DF8BA223FE9F900F2C2E9 /* Extensions */,
-				641DF8F3223FE9FE00F2C2E9 /* Helpers */,
 				F27DA40F1DA520D5005B1A33 /* Helpers.h */,
 				F27DA4101DA520D5005B1A33 /* Info.plist */,
 			);
@@ -385,49 +373,49 @@
 			buildActionMask = 2147483647;
 			files = (
 				64F8B7C623AEB95900EB6803 /* UIButtonExtension.swift in Sources */,
+				6467226723F048BF00A0E457 /* UITableViewHeaderFooterView.swift in Sources */,
 				641DF8DE223FE9FA00F2C2E9 /* StringExtensions.swift in Sources */,
 				641DF8EA223FE9FA00F2C2E9 /* DateExtensions.swift in Sources */,
 				641DF8D7223FE9FA00F2C2E9 /* CGFloatExtensions.swift in Sources */,
 				645870F2224CCF9D000FA425 /* UILabelExtension.swift in Sources */,
 				641DF8DF223FE9FA00F2C2E9 /* UITableViewCellExtensions.swift in Sources */,
-				641DF908223FEA0B00F2C2E9 /* Utils.swift in Sources */,
 				641DF8E9223FE9FA00F2C2E9 /* IntExtensions.swift in Sources */,
+				6467226523F048BF00A0E457 /* MultipartForm.swift in Sources */,
 				641DF8D8223FE9FA00F2C2E9 /* UITableViewExtensions.swift in Sources */,
-				641DF913223FEA0B00F2C2E9 /* NetworkRequest.swift in Sources */,
+				6467226423F048BF00A0E457 /* PausableTimer.swift in Sources */,
 				641DF8F2223FE9FA00F2C2E9 /* EKParticipantExtensions.swift in Sources */,
 				46C174C322D8A3FE00C50CA7 /* NSAttributtedStringExtension.swift in Sources */,
 				641DF8E3223FE9FA00F2C2E9 /* URLExtensions.swift in Sources */,
-				641DF912223FEA0B00F2C2E9 /* JSONDecodable.swift in Sources */,
 				641DF8E8223FE9FA00F2C2E9 /* BundleExtensions.swift in Sources */,
+				6467226B23F048BF00A0E457 /* Utils.swift in Sources */,
 				641DF8E2223FE9FA00F2C2E9 /* DoubleExtensions.swift in Sources */,
 				641DF8E4223FE9FA00F2C2E9 /* UIViewControllerExtensions.swift in Sources */,
+				6467226A23F048BF00A0E457 /* Form.swift in Sources */,
 				641DF8EE223FE9FA00F2C2E9 /* UIImageViewExtensions.swift in Sources */,
 				641DF8DB223FE9FA00F2C2E9 /* UITextFieldExtensions.swift in Sources */,
 				641DF8E1223FE9FA00F2C2E9 /* BoolExtensions.swift in Sources */,
-				641DF90E223FEA0B00F2C2E9 /* JSONEncodable.swift in Sources */,
-				641DF914223FEA0B00F2C2E9 /* UITableViewHeaderFooterView.swift in Sources */,
 				641DF8F0223FE9FA00F2C2E9 /* CFStringExtensions.swift in Sources */,
 				442F4D1922429855009F2FF4 /* LocaleExtension.swift in Sources */,
 				641DF8DD223FE9FA00F2C2E9 /* CGColorExtensions.swift in Sources */,
+				6467226C23F048BF00A0E457 /* UIPlaceHolderTextView.swift in Sources */,
 				641DF8E6223FE9FA00F2C2E9 /* UIViewExtensions.swift in Sources */,
-				641DF915223FEA0B00F2C2E9 /* PausableTimer.swift in Sources */,
-				641DF90C223FEA0B00F2C2E9 /* Time.swift in Sources */,
 				641DF907223FEA0B00F2C2E9 /* DictionaryExtensions.swift in Sources */,
+				6467226623F048BF00A0E457 /* Time.swift in Sources */,
 				641DF8E7223FE9FA00F2C2E9 /* DecimalExtensions.swift in Sources */,
-				641DF911223FEA0B00F2C2E9 /* JSON.swift in Sources */,
-				641DF90D223FEA0B00F2C2E9 /* UIPlaceHolderTextView.swift in Sources */,
+				6467226E23F048BF00A0E457 /* NetworkRequest.swift in Sources */,
+				6467226923F048BF00A0E457 /* JSON.swift in Sources */,
+				6467226823F048BF00A0E457 /* JSONDecodable.swift in Sources */,
 				641DF8D9223FE9FA00F2C2E9 /* UICollectionViewCellExtensions.swift in Sources */,
 				641DF8EB223FE9FA00F2C2E9 /* OptionalExtensions.swift in Sources */,
 				641DF8E0223FE9FA00F2C2E9 /* TimeIntervalExtensions.swift in Sources */,
-				641DF909223FEA0B00F2C2E9 /* MultipartForm.swift in Sources */,
 				641DF8E5223FE9FA00F2C2E9 /* UIImageExtensions.swift in Sources */,
 				442F4D1A22429855009F2FF4 /* NibInstantiate.swift in Sources */,
 				641DF8EC223FE9FA00F2C2E9 /* CollectionExtensions.swift in Sources */,
 				442F4D1822429855009F2FF4 /* NSMutableAttributedStringExtension.swift in Sources */,
+				6467226D23F048BF00A0E457 /* JSONEncodable.swift in Sources */,
 				6433F27023EF1CD8003DBA0D /* UISegmentedControlExtensions.swift in Sources */,
 				641DF8DC223FE9FA00F2C2E9 /* UICollectionViewExtensions.swift in Sources */,
 				641DF8DA223FE9FA00F2C2E9 /* ArrayExtensions.swift in Sources */,
-				641DF90B223FEA0B00F2C2E9 /* Form.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
